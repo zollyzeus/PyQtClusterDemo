@@ -1,0 +1,19 @@
+2025-08-05 14:59:40,327 - INFO - Chime activated (twice) - Deck: 51, Card: 1, Chime: engine_check
+2025-08-05 14:59:40,349 - INFO - Chime activated (once) - Deck: 51, Card: 2, Chime: engine_check
+2025-08-05 14:59:40,370 - INFO - Chime activated (once) - Deck: 52, Card: 2, Chime: jeep_seatbelt_alert
+2025-08-05 14:59:40,392 - INFO - Chime activated (once) - Deck: 53, Card: 1, Chime: engine_check
+2025-08-05 14:59:40,417 - INFO - Chime activated (twice) - Deck: 53, Card: 2, Chime: engine_check
+2025-08-05 14:59:40,442 - INFO - Chime activated (once) - Deck: 54, Card: 1, Chime: blinker
+2025-08-05 14:59:40,469 - INFO - Chime activated (continuous) - Deck: 55, Card: 1, Chime: jeep_seatbelt_alert
+2025-08-05 14:59:40,498 - INFO - Chime activated (once) - Deck: 55, Card: 2, Chime: jeep_seatbelt_alert
+2025-08-05 14:59:40,517 - INFO - Chime activated (once) - Deck: 56, Card: 1, Chime: low_fuel
+2025-08-05 14:59:40,541 - INFO - Chime activated (once) - Deck: 56, Card: 2, Chime: engine_check
+2025-08-05 14:59:40,564 - INFO - Chime activated (once) - Deck: 56, Card: 3, Chime: engine_check
+2025-08-05 14:59:40,587 - INFO - Chime activated (once) - Deck: 59, Card: 1, Chime: blinker
+2025-08-05 14:59:40,604 - INFO - Chime activated (once) - Deck: 60, Card: 1, Chime: blinker
+2025-08-05 14:59:40,623 - INFO - Chime activated (twice) - Deck: 61, Card: 2, Chime: engine_check
+2025-08-05 14:59:40,644 - INFO - Chime activated (twice) - Deck: 61, Card: 3, Chime: engine_check
+2025-08-05 14:59:43,483 - INFO - Chime second play scheduled - Deck: 51, Card: 1, Play Count: 1
+2025-08-05 14:59:43,570 - INFO - Chime second play scheduled - Deck: 53, Card: 2, Play Count: 1
+2025-08-05 14:59:43,571 - INFO - Chime second play scheduled - Deck: 61, Card: 2, Play Count: 1
+2025-08-05 14:59:43,571 - INFO - Chime second play scheduled - Deck: 61, Card: 3, Play Count: 1

@@ -1,0 +1,7 @@
+2025-08-05 16:14:53,321 - INFO - Chime triggered (continuous) - Deck: 60, Card: 1
+2025-08-05 16:17:12,148 - INFO - Chime triggered (continuous) - Deck: 54, Card: 1
+2025-08-05 16:18:25,515 - INFO - Chime triggered (twice) - Deck: 61, Card: 2
+2025-08-05 16:18:27,523 - INFO - Chime second play scheduled - Deck: 61, Card: 2, Play Count: 1
+2025-08-05 16:18:31,395 - INFO - Chime triggered (twice) - Deck: 61, Card: 3
+2025-08-05 16:18:33,406 - INFO - Chime second play scheduled - Deck: 61, Card: 3, Play Count: 1
+2025-08-05 16:18:46,778 - INFO - Chime triggered (once) - Deck: 56, Card: 3

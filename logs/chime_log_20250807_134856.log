@@ -1,0 +1,10 @@
+2025-08-07 13:50:22,729 - INFO - Chime triggered (continuous, infinite) - Deck: 59, Card: 1
+2025-08-07 13:50:22,929 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-07 13:50:25,757 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-07 13:50:28,778 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-07 13:50:30,769 - INFO - Chime triggered (continuous, infinite) - Deck: 60, Card: 1
+2025-08-07 13:50:30,968 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-07 13:50:31,765 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-07 13:50:33,777 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-07 13:50:34,693 - INFO - Chime stopped (clear_ui) - Deck: 59, Card: 1
+2025-08-07 13:50:35,545 - INFO - Chime stopped (clear_ui) - Deck: 60, Card: 1

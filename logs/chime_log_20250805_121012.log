@@ -1,0 +1,152 @@
+2025-08-05 12:10:12,202 - INFO - ChimeQueueHandler initialized
+2025-08-05 12:10:12,270 - INFO - Chime enqueued: ChimeInfo(engine_check, Deck:51, Card:1, ID:51_1)
+2025-08-05 12:10:12,280 - INFO - Playing chime: ChimeInfo(engine_check, Deck:51, Card:1, ID:51_1)
+2025-08-05 12:10:12,280 - INFO - Chime setup - Deck: 51, Card: 1, Chime: engine_check
+2025-08-05 12:10:12,281 - INFO - Chime enqueued: ChimeInfo(engine_check, Deck:51, Card:2, ID:51_2)
+2025-08-05 12:10:12,281 - INFO - Chime setup - Deck: 51, Card: 2, Chime: engine_check
+2025-08-05 12:10:12,283 - INFO - Chime enqueued: ChimeInfo(jeep_seatbelt_alert, Deck:52, Card:2, ID:52_2)
+2025-08-05 12:10:12,288 - INFO - Chime setup - Deck: 52, Card: 2, Chime: jeep_seatbelt_alert
+2025-08-05 12:10:12,289 - INFO - Chime enqueued: ChimeInfo(engine_check, Deck:53, Card:1, ID:53_1)
+2025-08-05 12:10:12,289 - INFO - Chime setup - Deck: 53, Card: 1, Chime: engine_check
+2025-08-05 12:10:12,290 - INFO - Chime enqueued: ChimeInfo(engine_check, Deck:53, Card:2, ID:53_2)
+2025-08-05 12:10:12,290 - INFO - Chime setup - Deck: 53, Card: 2, Chime: engine_check
+2025-08-05 12:10:12,296 - INFO - Playing blinker chime: ChimeInfo(blinker, Deck:54, Card:1, ID:54_1)
+2025-08-05 12:10:12,296 - INFO - Chime setup - Deck: 54, Card: 1, Chime: blinker
+2025-08-05 12:10:12,299 - INFO - Chime enqueued: ChimeInfo(jeep_seatbelt_alert, Deck:55, Card:1, ID:55_1)
+2025-08-05 12:10:12,299 - INFO - Chime setup - Deck: 55, Card: 1, Chime: jeep_seatbelt_alert
+2025-08-05 12:10:12,300 - INFO - Chime enqueued: ChimeInfo(jeep_seatbelt_alert, Deck:55, Card:2, ID:55_2)
+2025-08-05 12:10:12,300 - INFO - Chime setup - Deck: 55, Card: 2, Chime: jeep_seatbelt_alert
+2025-08-05 12:10:12,301 - INFO - Chime enqueued: ChimeInfo(low_fuel, Deck:56, Card:1, ID:56_1)
+2025-08-05 12:10:12,301 - INFO - Chime setup - Deck: 56, Card: 1, Chime: low_fuel
+2025-08-05 12:10:12,302 - INFO - Chime enqueued: ChimeInfo(engine_check, Deck:56, Card:2, ID:56_2)
+2025-08-05 12:10:12,302 - INFO - Chime setup - Deck: 56, Card: 2, Chime: engine_check
+2025-08-05 12:10:12,302 - INFO - Chime enqueued: ChimeInfo(engine_check, Deck:56, Card:3, ID:56_3)
+2025-08-05 12:10:12,303 - INFO - Chime setup - Deck: 56, Card: 3, Chime: engine_check
+2025-08-05 12:10:12,306 - INFO - Playing blinker chime: ChimeInfo(blinker, Deck:59, Card:1, ID:59_1)
+2025-08-05 12:10:12,306 - INFO - Chime setup - Deck: 59, Card: 1, Chime: blinker
+2025-08-05 12:10:12,307 - INFO - Playing blinker chime: ChimeInfo(blinker, Deck:60, Card:1, ID:60_1)
+2025-08-05 12:10:12,307 - INFO - Chime setup - Deck: 60, Card: 1, Chime: blinker
+2025-08-05 12:10:12,309 - INFO - Chime enqueued: ChimeInfo(engine_check, Deck:61, Card:2, ID:61_2)
+2025-08-05 12:10:12,309 - INFO - Chime setup - Deck: 61, Card: 2, Chime: engine_check
+2025-08-05 12:10:12,310 - INFO - Chime enqueued: ChimeInfo(engine_check, Deck:61, Card:3, ID:61_3)
+2025-08-05 12:10:12,310 - INFO - Chime setup - Deck: 61, Card: 3, Chime: engine_check
+2025-08-05 12:10:15,636 - INFO - Playing chime again: ChimeInfo(engine_check, Deck:51, Card:1, ID:51_1)
+2025-08-05 12:10:17,414 - INFO - Telltale duration expired - Deck: 51, Card: 1
+2025-08-05 12:10:17,414 - INFO - Telltale duration expired - Deck: 51, Card: 0
+2025-08-05 12:10:17,415 - INFO - Telltale duration expired - Deck: 50, Card: 9
+2025-08-05 12:10:17,416 - INFO - Telltale duration expired - Deck: 50, Card: 8
+2025-08-05 12:10:17,416 - INFO - Telltale duration expired - Deck: 50, Card: 7
+2025-08-05 12:10:17,417 - INFO - Telltale duration expired - Deck: 50, Card: 6
+2025-08-05 12:10:17,418 - INFO - Telltale duration expired - Deck: 50, Card: 5
+2025-08-05 12:10:17,418 - INFO - Telltale duration expired - Deck: 50, Card: 4
+2025-08-05 12:10:17,419 - INFO - Telltale duration expired - Deck: 50, Card: 3
+2025-08-05 12:10:17,420 - INFO - Telltale duration expired - Deck: 50, Card: 2
+2025-08-05 12:10:17,420 - INFO - Telltale duration expired - Deck: 50, Card: 1
+2025-08-05 12:10:17,421 - INFO - Telltale duration expired - Deck: 50, Card: 0
+2025-08-05 12:10:17,422 - INFO - Telltale duration expired - Deck: 54, Card: 0
+2025-08-05 12:10:17,422 - INFO - Telltale duration expired - Deck: 53, Card: 9
+2025-08-05 12:10:17,423 - INFO - Telltale duration expired - Deck: 53, Card: 8
+2025-08-05 12:10:17,423 - INFO - Telltale duration expired - Deck: 53, Card: 7
+2025-08-05 12:10:17,424 - INFO - Telltale duration expired - Deck: 53, Card: 6
+2025-08-05 12:10:17,425 - INFO - Telltale duration expired - Deck: 53, Card: 5
+2025-08-05 12:10:17,425 - INFO - Telltale duration expired - Deck: 53, Card: 4
+2025-08-05 12:10:17,426 - INFO - Telltale duration expired - Deck: 53, Card: 3
+2025-08-05 12:10:17,426 - INFO - Telltale duration expired - Deck: 53, Card: 2
+2025-08-05 12:10:17,427 - INFO - Telltale duration expired - Deck: 53, Card: 1
+2025-08-05 12:10:17,427 - INFO - Telltale duration expired - Deck: 53, Card: 0
+2025-08-05 12:10:17,428 - INFO - Telltale duration expired - Deck: 52, Card: 9
+2025-08-05 12:10:17,428 - INFO - Telltale duration expired - Deck: 52, Card: 8
+2025-08-05 12:10:17,429 - INFO - Telltale duration expired - Deck: 52, Card: 7
+2025-08-05 12:10:17,430 - INFO - Telltale duration expired - Deck: 52, Card: 6
+2025-08-05 12:10:17,431 - INFO - Telltale duration expired - Deck: 52, Card: 5
+2025-08-05 12:10:17,431 - INFO - Telltale duration expired - Deck: 52, Card: 4
+2025-08-05 12:10:17,432 - INFO - Telltale duration expired - Deck: 52, Card: 3
+2025-08-05 12:10:17,432 - INFO - Telltale duration expired - Deck: 52, Card: 2
+2025-08-05 12:10:17,433 - INFO - Telltale duration expired - Deck: 52, Card: 1
+2025-08-05 12:10:17,434 - INFO - Telltale duration expired - Deck: 52, Card: 0
+2025-08-05 12:10:17,434 - INFO - Telltale duration expired - Deck: 51, Card: 9
+2025-08-05 12:10:17,435 - INFO - Telltale duration expired - Deck: 51, Card: 8
+2025-08-05 12:10:17,435 - INFO - Telltale duration expired - Deck: 51, Card: 7
+2025-08-05 12:10:17,436 - INFO - Telltale duration expired - Deck: 51, Card: 6
+2025-08-05 12:10:17,437 - INFO - Telltale duration expired - Deck: 51, Card: 5
+2025-08-05 12:10:17,437 - INFO - Telltale duration expired - Deck: 51, Card: 4
+2025-08-05 12:10:17,438 - INFO - Telltale duration expired - Deck: 51, Card: 3
+2025-08-05 12:10:17,438 - INFO - Telltale duration expired - Deck: 51, Card: 2
+2025-08-05 12:10:17,439 - INFO - Telltale duration expired - Deck: 61, Card: 9
+2025-08-05 12:10:17,440 - INFO - Telltale duration expired - Deck: 61, Card: 8
+2025-08-05 12:10:17,441 - INFO - Telltale duration expired - Deck: 61, Card: 7
+2025-08-05 12:10:17,442 - INFO - Telltale duration expired - Deck: 61, Card: 6
+2025-08-05 12:10:17,442 - INFO - Telltale duration expired - Deck: 61, Card: 5
+2025-08-05 12:10:17,443 - INFO - Telltale duration expired - Deck: 61, Card: 4
+2025-08-05 12:10:17,443 - INFO - Telltale duration expired - Deck: 61, Card: 3
+2025-08-05 12:10:17,444 - INFO - Telltale duration expired - Deck: 61, Card: 2
+2025-08-05 12:10:17,445 - INFO - Telltale duration expired - Deck: 61, Card: 1
+2025-08-05 12:10:17,445 - INFO - Telltale duration expired - Deck: 61, Card: 0
+2025-08-05 12:10:17,446 - INFO - Telltale duration expired - Deck: 60, Card: 9
+2025-08-05 12:10:17,447 - INFO - Telltale duration expired - Deck: 60, Card: 8
+2025-08-05 12:10:17,448 - INFO - Telltale duration expired - Deck: 60, Card: 7
+2025-08-05 12:10:17,448 - INFO - Telltale duration expired - Deck: 60, Card: 6
+2025-08-05 12:10:17,449 - INFO - Telltale duration expired - Deck: 60, Card: 5
+2025-08-05 12:10:17,450 - INFO - Telltale duration expired - Deck: 60, Card: 4
+2025-08-05 12:10:17,450 - INFO - Telltale duration expired - Deck: 60, Card: 3
+2025-08-05 12:10:17,451 - INFO - Telltale duration expired - Deck: 60, Card: 2
+2025-08-05 12:10:17,451 - INFO - Telltale duration expired - Deck: 60, Card: 1
+2025-08-05 12:10:17,452 - INFO - Telltale duration expired - Deck: 60, Card: 0
+2025-08-05 12:10:17,453 - INFO - Telltale duration expired - Deck: 59, Card: 9
+2025-08-05 12:10:17,453 - INFO - Telltale duration expired - Deck: 59, Card: 8
+2025-08-05 12:10:17,454 - INFO - Telltale duration expired - Deck: 59, Card: 7
+2025-08-05 12:10:17,454 - INFO - Telltale duration expired - Deck: 59, Card: 6
+2025-08-05 12:10:17,455 - INFO - Telltale duration expired - Deck: 59, Card: 5
+2025-08-05 12:10:17,456 - INFO - Telltale duration expired - Deck: 59, Card: 4
+2025-08-05 12:10:17,457 - INFO - Telltale duration expired - Deck: 59, Card: 3
+2025-08-05 12:10:17,457 - INFO - Telltale duration expired - Deck: 59, Card: 2
+2025-08-05 12:10:17,458 - INFO - Telltale duration expired - Deck: 59, Card: 1
+2025-08-05 12:10:17,459 - INFO - Telltale duration expired - Deck: 59, Card: 0
+2025-08-05 12:10:17,460 - INFO - Telltale duration expired - Deck: 58, Card: 9
+2025-08-05 12:10:17,460 - INFO - Telltale duration expired - Deck: 58, Card: 8
+2025-08-05 12:10:17,461 - INFO - Telltale duration expired - Deck: 58, Card: 7
+2025-08-05 12:10:17,462 - INFO - Telltale duration expired - Deck: 58, Card: 6
+2025-08-05 12:10:17,463 - INFO - Telltale duration expired - Deck: 58, Card: 5
+2025-08-05 12:10:17,463 - INFO - Telltale duration expired - Deck: 58, Card: 4
+2025-08-05 12:10:17,464 - INFO - Telltale duration expired - Deck: 58, Card: 3
+2025-08-05 12:10:17,465 - INFO - Telltale duration expired - Deck: 58, Card: 2
+2025-08-05 12:10:17,466 - INFO - Telltale duration expired - Deck: 58, Card: 1
+2025-08-05 12:10:17,466 - INFO - Telltale duration expired - Deck: 58, Card: 0
+2025-08-05 12:10:17,467 - INFO - Telltale duration expired - Deck: 57, Card: 9
+2025-08-05 12:10:17,467 - INFO - Telltale duration expired - Deck: 57, Card: 8
+2025-08-05 12:10:17,468 - INFO - Telltale duration expired - Deck: 57, Card: 7
+2025-08-05 12:10:17,469 - INFO - Telltale duration expired - Deck: 57, Card: 6
+2025-08-05 12:10:17,469 - INFO - Telltale duration expired - Deck: 57, Card: 5
+2025-08-05 12:10:17,470 - INFO - Telltale duration expired - Deck: 57, Card: 4
+2025-08-05 12:10:17,470 - INFO - Telltale duration expired - Deck: 57, Card: 3
+2025-08-05 12:10:17,471 - INFO - Telltale duration expired - Deck: 57, Card: 2
+2025-08-05 12:10:17,472 - INFO - Telltale duration expired - Deck: 57, Card: 1
+2025-08-05 12:10:17,473 - INFO - Telltale duration expired - Deck: 57, Card: 0
+2025-08-05 12:10:17,473 - INFO - Telltale duration expired - Deck: 56, Card: 9
+2025-08-05 12:10:17,474 - INFO - Telltale duration expired - Deck: 56, Card: 8
+2025-08-05 12:10:17,475 - INFO - Telltale duration expired - Deck: 56, Card: 7
+2025-08-05 12:10:17,476 - INFO - Telltale duration expired - Deck: 56, Card: 6
+2025-08-05 12:10:17,476 - INFO - Telltale duration expired - Deck: 56, Card: 5
+2025-08-05 12:10:17,477 - INFO - Telltale duration expired - Deck: 56, Card: 4
+2025-08-05 12:10:17,477 - INFO - Telltale duration expired - Deck: 56, Card: 3
+2025-08-05 12:10:17,478 - INFO - Telltale duration expired - Deck: 56, Card: 2
+2025-08-05 12:10:17,479 - INFO - Telltale duration expired - Deck: 56, Card: 1
+2025-08-05 12:10:17,480 - INFO - Telltale duration expired - Deck: 56, Card: 0
+2025-08-05 12:10:17,480 - INFO - Telltale duration expired - Deck: 55, Card: 9
+2025-08-05 12:10:17,481 - INFO - Telltale duration expired - Deck: 55, Card: 8
+2025-08-05 12:10:17,482 - INFO - Telltale duration expired - Deck: 55, Card: 7
+2025-08-05 12:10:17,482 - INFO - Telltale duration expired - Deck: 55, Card: 6
+2025-08-05 12:10:17,483 - INFO - Telltale duration expired - Deck: 55, Card: 5
+2025-08-05 12:10:17,483 - INFO - Telltale duration expired - Deck: 55, Card: 4
+2025-08-05 12:10:17,484 - INFO - Telltale duration expired - Deck: 55, Card: 3
+2025-08-05 12:10:17,485 - INFO - Telltale duration expired - Deck: 55, Card: 2
+2025-08-05 12:10:17,485 - INFO - Telltale duration expired - Deck: 55, Card: 0
+2025-08-05 12:10:17,486 - INFO - Telltale duration expired - Deck: 54, Card: 9
+2025-08-05 12:10:17,487 - INFO - Telltale duration expired - Deck: 54, Card: 8
+2025-08-05 12:10:17,488 - INFO - Telltale duration expired - Deck: 54, Card: 7
+2025-08-05 12:10:17,488 - INFO - Telltale duration expired - Deck: 54, Card: 6
+2025-08-05 12:10:17,489 - INFO - Telltale duration expired - Deck: 54, Card: 5
+2025-08-05 12:10:17,490 - INFO - Telltale duration expired - Deck: 54, Card: 4
+2025-08-05 12:10:17,490 - INFO - Telltale duration expired - Deck: 54, Card: 3
+2025-08-05 12:10:17,491 - INFO - Telltale duration expired - Deck: 54, Card: 2
+2025-08-05 12:10:17,491 - INFO - Telltale duration expired - Deck: 54, Card: 1
