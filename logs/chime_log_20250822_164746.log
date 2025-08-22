@@ -1,0 +1,194 @@
+2025-08-22 16:48:38,416 - INFO - Chime triggered (twice) - Deck: 51, Card: 1
+2025-08-22 16:48:38,417 - INFO - Chime triggered (once) - Deck: 51, Card: 2
+2025-08-22 16:48:38,417 - INFO - Chime triggered (once) - Deck: 52, Card: 2
+2025-08-22 16:48:38,417 - INFO - Chime triggered (once) - Deck: 53, Card: 1
+2025-08-22 16:48:38,418 - INFO - Chime triggered (twice) - Deck: 53, Card: 2
+2025-08-22 16:48:38,418 - INFO - Chime triggered (continuous, infinite) - Deck: 54, Card: 1
+2025-08-22 16:48:38,418 - INFO - Chime triggered (continuous, timed 90s) - Deck: 55, Card: 1
+2025-08-22 16:48:38,423 - INFO - Chime triggered (once) - Deck: 55, Card: 2
+2025-08-22 16:48:38,423 - INFO - Chime triggered (once) - Deck: 56, Card: 1
+2025-08-22 16:48:38,424 - INFO - Chime triggered (once) - Deck: 56, Card: 2
+2025-08-22 16:48:38,424 - INFO - Chime triggered (once) - Deck: 56, Card: 3
+2025-08-22 16:48:38,424 - INFO - Chime triggered (continuous, infinite) - Deck: 59, Card: 1
+2025-08-22 16:48:38,425 - INFO - Chime triggered (continuous, infinite) - Deck: 60, Card: 1
+2025-08-22 16:48:38,425 - INFO - Chime triggered (twice) - Deck: 61, Card: 2
+2025-08-22 16:48:38,425 - INFO - Chime triggered (twice) - Deck: 61, Card: 3
+2025-08-22 16:48:38,692 - INFO - Chime started TWICE (first) - Deck: 51, Card: 1
+2025-08-22 16:48:38,692 - INFO - Chime started TWICE (first) - Deck: 53, Card: 2
+2025-08-22 16:48:38,693 - INFO - Chime started ONCE - Deck: 51, Card: 2
+2025-08-22 16:48:38,693 - INFO - Chime started ONCE - Deck: 52, Card: 2
+2025-08-22 16:48:38,693 - INFO - Chime started ONCE - Deck: 53, Card: 1
+2025-08-22 16:48:38,694 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:48:38,694 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:48:38,694 - INFO - Chime started ONCE - Deck: 55, Card: 2
+2025-08-22 16:48:38,694 - INFO - Chime started ONCE - Deck: 56, Card: 1
+2025-08-22 16:48:38,695 - INFO - Chime started ONCE - Deck: 56, Card: 2
+2025-08-22 16:48:38,695 - INFO - Chime started ONCE - Deck: 56, Card: 3
+2025-08-22 16:48:38,695 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:48:38,696 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:48:38,696 - INFO - Chime started TWICE (first) - Deck: 61, Card: 2
+2025-08-22 16:48:38,696 - INFO - Chime started TWICE (first) - Deck: 61, Card: 3
+2025-08-22 16:48:39,894 - INFO - Chime started TWICE (second) - Deck: 53, Card: 2
+2025-08-22 16:48:39,896 - INFO - Chime started TWICE (second) - Deck: 51, Card: 1
+2025-08-22 16:48:39,898 - INFO - Chime started TWICE (second) - Deck: 61, Card: 2
+2025-08-22 16:48:39,900 - INFO - Chime started TWICE (second) - Deck: 61, Card: 3
+2025-08-22 16:48:41,408 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:48:41,414 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:48:41,431 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:48:41,433 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:48:41,708 - INFO - Chime second play scheduled - Deck: 53, Card: 2, Play Count: 1
+2025-08-22 16:48:41,709 - INFO - Chime second play scheduled - Deck: 51, Card: 1, Play Count: 1
+2025-08-22 16:48:41,711 - INFO - Chime second play scheduled - Deck: 61, Card: 2, Play Count: 1
+2025-08-22 16:48:41,712 - INFO - Chime second play scheduled - Deck: 61, Card: 3, Play Count: 1
+2025-08-22 16:48:42,509 - INFO - Chime started TWICE (first) - Deck: 53, Card: 2
+2025-08-22 16:48:42,509 - INFO - Chime started TWICE (first) - Deck: 51, Card: 1
+2025-08-22 16:48:42,512 - INFO - Chime started TWICE (first) - Deck: 61, Card: 2
+2025-08-22 16:48:42,513 - INFO - Chime started TWICE (first) - Deck: 61, Card: 3
+2025-08-22 16:48:43,710 - INFO - Chime started TWICE (second) - Deck: 53, Card: 2
+2025-08-22 16:48:43,712 - INFO - Chime started TWICE (second) - Deck: 51, Card: 1
+2025-08-22 16:48:43,714 - INFO - Chime started TWICE (second) - Deck: 61, Card: 2
+2025-08-22 16:48:43,715 - INFO - Chime started TWICE (second) - Deck: 61, Card: 3
+2025-08-22 16:48:44,422 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:48:44,427 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:48:44,430 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:48:44,432 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:48:47,413 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:48:47,418 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:48:47,429 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:48:47,432 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:48:50,417 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:48:50,422 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:48:50,428 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:48:50,430 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:48:53,410 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:48:53,416 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:48:53,427 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:48:53,429 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:48:56,431 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:48:56,437 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:48:56,439 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:48:56,442 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:48:59,449 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:48:59,454 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:48:59,457 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:48:59,459 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:02,467 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:02,473 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:02,475 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:02,477 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:05,457 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:05,462 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:05,465 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:05,467 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:08,455 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:08,457 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:08,459 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:08,461 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:11,467 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:11,468 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:11,471 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:11,473 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:14,463 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:14,469 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:14,472 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:14,474 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:17,461 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:17,466 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:17,469 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:17,470 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:20,456 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:20,461 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:20,464 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:20,466 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:21,294 - INFO - Chime triggered (continuous, infinite) - Deck: 60, Card: 1
+2025-08-22 16:49:21,500 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:23,275 - INFO - Chime triggered (continuous, infinite) - Deck: 54, Card: 1
+2025-08-22 16:49:23,460 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:23,466 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:23,468 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:23,469 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:23,477 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:26,455 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:26,460 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:26,463 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:26,465 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:29,465 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:29,471 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:29,473 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:29,475 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:32,470 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:32,478 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:32,483 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:32,491 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:35,460 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:35,466 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:35,468 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:35,470 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:38,463 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:38,469 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:38,471 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:38,473 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:39,337 - INFO - Chime triggered (twice) - Deck: 51, Card: 1
+2025-08-22 16:49:39,338 - INFO - Chime triggered (once) - Deck: 51, Card: 2
+2025-08-22 16:49:39,338 - INFO - Chime triggered (once) - Deck: 52, Card: 2
+2025-08-22 16:49:39,338 - INFO - Chime triggered (once) - Deck: 53, Card: 1
+2025-08-22 16:49:39,338 - INFO - Chime triggered (twice) - Deck: 53, Card: 2
+2025-08-22 16:49:39,339 - INFO - Chime triggered (continuous, infinite) - Deck: 54, Card: 1
+2025-08-22 16:49:39,339 - INFO - Chime triggered (continuous, timed 90s) - Deck: 55, Card: 1
+2025-08-22 16:49:39,339 - INFO - Chime triggered (once) - Deck: 55, Card: 2
+2025-08-22 16:49:39,340 - INFO - Chime triggered (once) - Deck: 56, Card: 1
+2025-08-22 16:49:39,340 - INFO - Chime triggered (once) - Deck: 56, Card: 2
+2025-08-22 16:49:39,340 - INFO - Chime triggered (once) - Deck: 56, Card: 3
+2025-08-22 16:49:39,341 - INFO - Chime triggered (continuous, infinite) - Deck: 59, Card: 1
+2025-08-22 16:49:39,341 - INFO - Chime triggered (continuous, infinite) - Deck: 60, Card: 1
+2025-08-22 16:49:39,341 - INFO - Chime triggered (twice) - Deck: 61, Card: 2
+2025-08-22 16:49:39,341 - INFO - Chime triggered (twice) - Deck: 61, Card: 3
+2025-08-22 16:49:39,612 - INFO - Chime started ONCE - Deck: 52, Card: 2
+2025-08-22 16:49:39,612 - INFO - Chime started TWICE (first) - Deck: 51, Card: 1
+2025-08-22 16:49:39,612 - INFO - Chime started ONCE - Deck: 51, Card: 2
+2025-08-22 16:49:39,618 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:39,618 - INFO - Chime started ONCE - Deck: 53, Card: 1
+2025-08-22 16:49:39,619 - INFO - Chime started TWICE (first) - Deck: 53, Card: 2
+2025-08-22 16:49:39,619 - INFO - Chime started ONCE - Deck: 56, Card: 2
+2025-08-22 16:49:39,621 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:39,622 - INFO - Chime started ONCE - Deck: 55, Card: 2
+2025-08-22 16:49:39,622 - INFO - Chime started ONCE - Deck: 56, Card: 1
+2025-08-22 16:49:39,623 - INFO - Chime started TWICE (first) - Deck: 61, Card: 2
+2025-08-22 16:49:39,623 - INFO - Chime started ONCE - Deck: 56, Card: 3
+2025-08-22 16:49:39,625 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:39,628 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:39,629 - INFO - Chime started TWICE (first) - Deck: 61, Card: 3
+2025-08-22 16:49:40,813 - INFO - Chime started TWICE (second) - Deck: 51, Card: 1
+2025-08-22 16:49:40,819 - INFO - Chime started TWICE (second) - Deck: 53, Card: 2
+2025-08-22 16:49:40,824 - INFO - Chime started TWICE (second) - Deck: 61, Card: 2
+2025-08-22 16:49:40,829 - INFO - Chime started TWICE (second) - Deck: 61, Card: 3
+2025-08-22 16:49:41,460 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:41,466 - INFO - Chime started (continuous) - Deck: 54, Card: 1
+2025-08-22 16:49:41,468 - INFO - Chime started (continuous) - Deck: 60, Card: 1
+2025-08-22 16:49:41,470 - INFO - Chime started (continuous) - Deck: 59, Card: 1
+2025-08-22 16:49:42,623 - INFO - Chime second play scheduled - Deck: 51, Card: 1, Play Count: 1
+2025-08-22 16:49:42,630 - INFO - Chime second play scheduled - Deck: 53, Card: 2, Play Count: 1
+2025-08-22 16:49:42,637 - INFO - Chime second play scheduled - Deck: 61, Card: 2, Play Count: 1
+2025-08-22 16:49:42,638 - INFO - Chime second play scheduled - Deck: 61, Card: 3, Play Count: 1
+2025-08-22 16:49:43,423 - INFO - Chime started TWICE (first) - Deck: 51, Card: 1
+2025-08-22 16:49:43,425 - INFO - Chime stopped (clear_ui) - Deck: 51, Card: 2
+2025-08-22 16:49:43,426 - INFO - Chime stopped (clear_ui) - Deck: 52, Card: 2
+2025-08-22 16:49:43,426 - INFO - Chime stopped (clear_ui) - Deck: 53, Card: 2
+2025-08-22 16:49:43,428 - INFO - Chime stopped (clear_ui) - Deck: 54, Card: 1
+2025-08-22 16:49:43,429 - INFO - Chime stopped (clear_ui) - Deck: 55, Card: 2
+2025-08-22 16:49:43,429 - INFO - Chime stopped (clear_ui) - Deck: 56, Card: 3
+2025-08-22 16:49:43,430 - INFO - Chime stopped (clear_ui) - Deck: 59, Card: 1
+2025-08-22 16:49:43,431 - INFO - Chime stopped (clear_ui) - Deck: 60, Card: 1
+2025-08-22 16:49:43,432 - INFO - Chime stopped (clear_ui) - Deck: 61, Card: 3
+2025-08-22 16:49:43,460 - INFO - Chime started TWICE (first) - Deck: 53, Card: 2
+2025-08-22 16:49:43,461 - INFO - Chime started TWICE (first) - Deck: 61, Card: 2
+2025-08-22 16:49:43,461 - INFO - Chime started TWICE (first) - Deck: 61, Card: 3
+2025-08-22 16:49:44,464 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:44,624 - INFO - Chime started TWICE (second) - Deck: 51, Card: 1
+2025-08-22 16:49:44,662 - INFO - Chime started TWICE (second) - Deck: 53, Card: 2
+2025-08-22 16:49:44,664 - INFO - Chime started TWICE (second) - Deck: 61, Card: 2
+2025-08-22 16:49:44,666 - INFO - Chime started TWICE (second) - Deck: 61, Card: 3
+2025-08-22 16:49:47,464 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:50,457 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:53,458 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 16:49:56,457 - INFO - Chime started (continuous) - Deck: 55, Card: 1

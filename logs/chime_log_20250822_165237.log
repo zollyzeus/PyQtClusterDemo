@@ -1,0 +1,6 @@
+2025-08-22 16:53:32,257 - INFO - Chime triggered (twice) - Deck: 53, Card: 2
+2025-08-22 16:53:32,457 - INFO - Chime started TWICE (first) - Deck: 53, Card: 2
+2025-08-22 16:53:33,665 - INFO - Chime started TWICE (second) - Deck: 53, Card: 2
+2025-08-22 16:53:35,499 - INFO - Chime second play scheduled - Deck: 53, Card: 2, Play Count: 1
+2025-08-22 16:53:36,300 - INFO - Chime started TWICE (first) - Deck: 53, Card: 2
+2025-08-22 16:53:37,508 - INFO - Chime started TWICE (second) - Deck: 53, Card: 2

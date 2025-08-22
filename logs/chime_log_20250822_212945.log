@@ -1,0 +1,31 @@
+2025-08-22 21:29:56,194 - INFO - Chime triggered (once) - Deck: 52, Card: 2
+2025-08-22 21:29:56,393 - INFO - Chime started ONCE - Deck: 52, Card: 2
+2025-08-22 21:29:58,068 - INFO - Chime stopped (clear_ui) - Deck: 52, Card: 2
+2025-08-22 21:29:59,017 - INFO - Chime triggered (once) - Deck: 52, Card: 2
+2025-08-22 21:29:59,218 - INFO - Chime started ONCE - Deck: 52, Card: 2
+2025-08-22 21:30:00,268 - INFO - Chime stopped (clear_ui) - Deck: 52, Card: 2
+2025-08-22 21:30:04,533 - INFO - Chime triggered (continuous, timed 90s) - Deck: 55, Card: 1
+2025-08-22 21:30:04,733 - INFO - Chime started (continuous) - Deck: 55, Card: 1
+2025-08-22 21:30:05,329 - INFO - Chime stopped (clear_ui) - Deck: 55, Card: 1
+2025-08-22 21:30:05,974 - INFO - Chime triggered (once) - Deck: 55, Card: 2
+2025-08-22 21:30:06,174 - INFO - Chime started ONCE - Deck: 55, Card: 2
+2025-08-22 21:30:06,911 - INFO - Chime stopped (clear_ui) - Deck: 55, Card: 2
+2025-08-22 21:30:07,681 - INFO - Chime triggered (once) - Deck: 55, Card: 2
+2025-08-22 21:30:07,881 - INFO - Chime started ONCE - Deck: 55, Card: 2
+2025-08-22 21:30:08,591 - INFO - Chime stopped (clear_ui) - Deck: 55, Card: 2
+2025-08-22 21:30:10,204 - INFO - Chime triggered (twice) - Deck: 51, Card: 1
+2025-08-22 21:30:10,404 - INFO - Chime started TWICE (first) - Deck: 51, Card: 1
+2025-08-22 21:30:11,613 - INFO - Chime started TWICE (second) - Deck: 51, Card: 1
+2025-08-22 21:30:13,447 - INFO - Chime second play scheduled - Deck: 51, Card: 1, Play Count: 1
+2025-08-22 21:30:14,037 - INFO - Chime triggered (once) - Deck: 51, Card: 2
+2025-08-22 21:30:14,237 - INFO - Chime started ONCE - Deck: 51, Card: 2
+2025-08-22 21:30:14,247 - INFO - Chime started TWICE (first) - Deck: 51, Card: 1
+2025-08-22 21:30:15,447 - INFO - Chime started TWICE (second) - Deck: 51, Card: 1
+2025-08-22 21:30:16,399 - INFO - Chime stopped (clear_ui) - Deck: 51, Card: 2
+2025-08-22 21:30:19,429 - INFO - Chime triggered (twice) - Deck: 51, Card: 1
+2025-08-22 21:30:19,630 - INFO - Chime started TWICE (first) - Deck: 51, Card: 1
+2025-08-22 21:30:20,831 - INFO - Chime started TWICE (second) - Deck: 51, Card: 1
+2025-08-22 21:30:21,313 - INFO - Chime stopped (clear_ui) - Deck: 51, Card: 1
+2025-08-22 21:30:21,981 - INFO - Chime triggered (once) - Deck: 51, Card: 2
+2025-08-22 21:30:22,181 - INFO - Chime started ONCE - Deck: 51, Card: 2
+2025-08-22 21:30:24,012 - INFO - Chime stopped (clear_ui) - Deck: 51, Card: 2

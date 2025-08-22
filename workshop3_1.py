@@ -519,6 +519,9 @@ class TellTaleDeckWidget(QWidget):
         # Hide all cards except the highest active one
         for i, card in enumerate(self.cards):
             card.hide()
+        # Re-initialize UI if needed (after clear_ui)
+        if hasattr(self.cards[card_num], 'ui_items') and not self.cards[card_num].ui_items:
+            self.cards[card_num].init_ui()
         self.cards[card_num].show()
         self.active_card = card_num
 
